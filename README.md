@@ -1,1 +1,1 @@
-# awesome-project
+# My Awesome Project
